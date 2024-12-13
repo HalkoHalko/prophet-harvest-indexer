@@ -12,8 +12,11 @@
   },
   "dependencies": {
     "@ponder/core": "^0.7.17",
+    "ethers": "^6.13.4",
     "hono": "^4.5.0",
-    "viem": "^2.21.3"
+    "viem": "^2.21.3",
+    "web": "^0.0.2",
+    "web3": "^4.16.0"
   },
   "devDependencies": {
     "@types/node": "^20.10.0",
